@@ -1,0 +1,173 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header div {
+    background-color: #f72210;
+  }
+  
+  .subscribe {
+    border-radius: 20px;
+    background-color: #ffe400;
+  }
+  
+  nav ul li {
+    height: 1.5rem;
+  }
+  
+  nav ul li a {
+    color: black;
+    font-weight: bold;
+  }
+  
+  nav ul li a:hover {
+    color: #f72210;
+  }
+  
+  .border-right {
+    border-right: 1px solid #d9d9d9;
+  }
+  
+  nav ul li input {
+    outline: none;
+  }
+  
+  nav ul li i {
+    right: 3rem;
+    top: 0.5rem;
+  }
+
+  .rang {
+      color: rgba(3, 3, 3, .4);
+  }
+
+  .rang:hover {
+    color: rgba(3, 3, 3, .4);
+  }
+
+  .joe {
+      color: #000;
+      text-decoration: none;
+  }
+
+  .joe:hover {
+    color: #000;
+    text-decoration: underline;
+    text-decoration-color: #f72210;
+  }
+
+  .joe1 {
+    color: #000;
+    font-weight: 700;
+    text-decoration: none;
+  }
+
+  .joe1:hover {
+    color: #000;
+    text-decoration: underline;
+    text-decoration-color: #f72210;
+  }
+  
+.news {
+  bottom: 0;
+  left: 0;
+  background-color: #ffffffe6;
+  color: #f72210;
+  font-weight: bold;
+}
+
+.border-t {
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+}
+
+
+
+.rasmh {
+  min-height: 40vh;
+}
+
+.news1 {
+  bottom: 0;
+  left: 0;
+  background-color: #c2d4d7;
+  color: #000;
+  font-weight: bold;
+}
+
+.news:hover {
+  color: #f72210;
+}
+
+.pastor {
+  color: #03030380;
+  font-weight: 700;
+}
+
+.pastor:hover {
+  color: #03030380;
+}
+
+.for {
+  font-size: 0.8rem;
+}
+
+.zach {
+  color: #555;
+}
+
+.inthe {
+  color: #333;
+  font-weight: bold;
+}
+
+/* .issue {
+  color: #f72210;
+  background-color: #ffffffe6;
+  padding: 0 1rem;
+} */
+
+.all {
+  background-color: #f4f5f6;
+  border: none;
+}
+
+.all:hover {
+  background-color:rgb(185, 182, 182);
+}
+
+.see:hover {
+  color: #000;
+}
+
+.see {
+  color: #000;
+}
+
+/* .issue:hover {
+  color: #f72210;
+} */
+
+.usf2 {
+  color: #f72210;
+}
+
+.usf2:hover {
+  color: #f72210;
+}
+
+.cover {
+  background-color: #f72210;
+  color: #fff;
+  font-weight: bold;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.border-b {
+  border-bottom: 1px solid #ddd;
+}
